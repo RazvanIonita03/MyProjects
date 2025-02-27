@@ -1,0 +1,1 @@
+Tpaste is a pastebin-like service for uploading and sharing terminal outputs via unique URLs. It allows users to quickly send command-line outputs to a web service, where they can be accessed later. Features often include authentication, user dashboards, and possibly syntax highlighting or expiration options.
