@@ -1,0 +1,2 @@
+gcc -o client client.c -lncurses
+gcc -o server server.c -lpthread
