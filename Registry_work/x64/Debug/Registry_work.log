@@ -1,0 +1,4 @@
+﻿  Registry_work.cpp
+C:\Users\Razvan\Documents\NetSecurity\Registry_work\Registry_work.cpp(65,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Razvan\Documents\NetSecurity\Registry_work\Registry_work.cpp(43,12): warning C4101: 'Valoare': unreferenced local variable
+  Registry_work.vcxproj -> C:\Users\Razvan\Documents\NetSecurity\Registry_work\x64\Debug\Registry_work.exe
